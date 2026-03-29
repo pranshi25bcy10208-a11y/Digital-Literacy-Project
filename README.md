@@ -18,34 +18,6 @@ This repository is my submission for the CSE0001 Digital Literacy project at VIT
 
 The project is divided into five tasks, each mapping to one module of the course. Together, these tasks cover everything from building a professional digital presence, to understanding cybercrime and how to stay safe online. All work is organized in this repository with screenshots, written files, and a full project report.
 
-Repository Structure
-
-digital-literacy-project/
-│
-├── README.md                  ← You are here
-├── report/
-│   └── Project_Report.pdf     ← Full written report (all 5 tasks)
-│
-├── task-1-presentation/
-│   └── infographic.png        ← Digital Literacy infographic (made on Canva)
-│
-├── task-2-portfolio/
-│   ├── github-profile.png     ← Screenshot of GitHub profile
-│   ├── kaggle-profile.png     ← Screenshot of Kaggle profile
-│   └── linkedin-profile.png   ← Screenshot of LinkedIn profile
-│
-├── task-3-platforms/
-│   ├── hackerrank-challenge.png   ← Completed coding challenge screenshot
-│   ├── google-form.png            ← Digital Literacy Quiz form screenshot
-│   └── google-sheet-responses.png ← Linked response sheet screenshot
-│
-├── task-4-email-etiquette/
-│   ├── email-drafts.pdf           ← Two professional email drafts
-│   └── social-media-checklist.md  ← Social media Do's and Don'ts
-│
-└── task-5-cybercrime/
-    ├── casestudy.md               ← UPI Fraud case study
-    └── prevention-checklist.md    ← Stay Safe Online checklist
 
     Module Summaries:
 
