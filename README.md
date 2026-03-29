@@ -18,8 +18,7 @@ This repository is my submission for the CSE0001 Digital Literacy project at VIT
 
 The project is divided into five tasks, each mapping to one module of the course. Together, these tasks cover everything from building a professional digital presence, to understanding cybercrime and how to stay safe online. All work is organized in this repository with screenshots, written files, and a full project report.
 
-
-    Module Summaries:
+Module Summaries:
 
 Task 1 – Digital Literacy Awareness Infographic (Module 1)
 
