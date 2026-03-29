@@ -2,22 +2,24 @@
 
 VIT Bhopal University
 
-Student Details
-
-Field	Details
-
 Name: Pranshi Pareek
 
 Registration No.	25BCY10208
+
 Branch:	B.Tech – Cybersecurity and Digital Forensics
+
 Year:	First Year (2025–2029)
+
 Course Code:	CSE0001 – Digital Literacy
+
 Project Overview:
+
 This repository is my submission for the CSE0001 Digital Literacy project at VIT Bhopal University. As part of this course, I took on the role of a Student Digital Ambassador — someone who helps their peers navigate the digital world safely and responsibly.
 
 The project is divided into five tasks, each mapping to one module of the course. Together, these tasks cover everything from building a professional digital presence, to understanding cybercrime and how to stay safe online. All work is organized in this repository with screenshots, written files, and a full project report.
 
 Repository Structure
+
 digital-literacy-project/
 │
 ├── README.md                  ← You are here
