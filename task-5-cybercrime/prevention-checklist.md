@@ -1,4 +1,4 @@
-Stay Safe Onlin-. Prevention Checklist
+Stay Safe Online- Prevention Checklist
 
 General Cybersecurity Tips:
 
