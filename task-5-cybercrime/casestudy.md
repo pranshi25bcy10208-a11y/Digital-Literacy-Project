@@ -4,7 +4,7 @@ What is UPI Payment Fraud?
 
 UPI payment fraud is when someone tricks you into sending them money or giving them your payment details. They do this by lying to you or pretending to be someone.
 
-Scenario:
+Realistic Fictional Scenario:
 
 There was a girl named Riya. She was a 19-year- college student from Bhopal. Riya put her laptop up for sale on OLX. Then a man named Vikram sent her a message. He said he was an Army officer and he really wanted to buy her laptop.
 
